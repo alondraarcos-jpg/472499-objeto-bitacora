@@ -46,7 +46,15 @@ La estetica no es solo arte o lo bonito
 **"Con este espiritu, tal vez la única forma de echar luz sobre el arte es dejarlo tomar altura e irse tan lejos de su lugar
 en el mundo de manera que pueda coincidir con el Universo entero"**
 
-hay una distancia entre nosotros y los objetos 
+hay una distancia entre nosotros y los objetos, las cosas nunca se muestran completas siempre hay algo oculto
+todo lo que vemos es parcial
+- las cosas son mas de lo que parecen
+- las cosas tienen una parte oculta
+  no se agotan en lo que vemos o entendemos.
+
+  **"El mundo se fragmenta perpetuamente entre la vida interior de las cosas y sus efectos sobre nosotros: el extraño dualismo entre la cosa como imagen y la cosa como ejecución"**
+  
+  
 
 
 
