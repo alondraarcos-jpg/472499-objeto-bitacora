@@ -4,4 +4,4 @@
 
 ## Mi primera foto
 
-![](./LOGOuniacc)
+![](./LOGOuniacc.png)
