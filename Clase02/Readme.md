@@ -1,6 +1,50 @@
-///En la sintaxis hay que incluir
-///signo de exclamación
-///paréntesis cuadrado con texto alternativo
-///paréntesis redondo con dirección de imagen
-/// el punto-slash indica que la busque en esta misma carpeta
-![logouniacc]
+## Tareas
+
+Plancha de pelo
+Cualidades:
+
+Alargada
+Dura
+Lisa
+Brillante
+Artificial
+Rígida
+Funcional
+Moderno
+Compacta
+Rosada
+2. Cualidades:
+Tensa
+Enrollada
+Contenida
+Artificial
+Rígida
+Brillante
+Lineal
+Revisado
+Doméstico
+Instrumental
+
+##Peluche:
+
+Afable
+Amarillo
+Blando
+Decorativo
+Liviano
+Simétrico
+Reconocible
+Limpio
+Esponjoso
+
+
+Irregular
+Mezcla
+Cálida (al tacto)
+Voluminosa
+Curvo
+Texturizado
+Expandido
+Colgante
+Expresiva (por la cara)
+Flexible
