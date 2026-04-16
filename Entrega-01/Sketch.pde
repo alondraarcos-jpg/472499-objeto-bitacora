@@ -1,29 +1,86 @@
-#codigo de recorrido en el manzano cajón del maipo
+Table tabla;
+int paso = 0;
+float minLat, maxLat, minLon, maxLon;
 
-float[] valores = { 0.7860671903391775, 0.8364861462963084 0.7997717147377209, 0.7737864207290726, 0.7775553273662861, 0,7246893922093773, 0,6458692351740078, 0,5490055033725632, 0,6750997603421102, 0,7908525560069702, 0,8476070620397171 };
+void setup() {
+size(800, 800); // Ventana cuadrada para que el mapa no se deforme tanto
 
-entero paso = 0;
+// Carga el archivo desde la carpeta /data
+tabla = loadTable("Location_Processing_Ready.csv", "header");
 
-void setup() { tamaño(600, 400); }
+if (tabla == null) {
+exit();
+} else {
+println("Éxito: " + tabla.getRowCount() + " puntos cargados.");
+calcularLimites();
+}
+frameRate(60);
+}
 
-void draw() { fondo(0); trazo(255);
+void draw() {
+background(10, 15, 20); // Color oscuro tipo mapa nocturno
 
-// aumenta el paso con el tiempo if (frameCount % 10 == 0 && paso < valores.length) { paso++; }
+// Título e información
+fill(255);
+textSize(18);
+text("Recorrido: El Manzano - Cajón del Maipo", 30, 40);
 
-for (int i = 0; i < paso; i++) { float valor = valores[i];
+fill(180, 50, 255);
+text("● Puntos con error de GPS", 30, 70);
 
-float x = map(i, 0, valores.length, 50, width - 50); float y = map(valor, 0, 1, height - 50, 50);
+// Animación del recorrido
+if (paso < tabla.getRowCount()) {
+paso += 3; // Puedes subir este número para que sea más rápido
+}
 
-if (i > 0) { float prevValor = valores[i - 1];
+translate(0, 0); // Reset de coordenadas
 
-float prevX = map(i - 1, 0, valores.length, 50, width - 50); float prevY = map(prevValor, 0, 1, height - 50, 50);
+for (int i = 0; i < paso; i++) {
+TableRow fila = tabla.getRow(i);
 
-línea(prevX, prevY, x, y); }
+float lat = fila.getFloat("latitude");
+float lon = fila.getFloat("longitude");
+float accuracy = fila.getFloat("horizontalAccuracy");
 
-fill(255, 100, 200); elipse(x, y, 10, 10); } //}
-## Uso de IA para 
-"crear visualización en processing con datos de velocidad"
+// Mapeo dinámico: Ajusta los puntos a los márgenes de la ventana (50px de margen)
+float x = map(lon, minLon, maxLon, 50, width - 50);
+float y = map(lat, minLat, maxLat, height - 50, 50);
 
+// Dibujar líneas entre puntos para ver el camino
+if (i > 0) {
+TableRow previa = tabla.getRow(i-1);
+float px = map(previa.getFloat("longitude"), minLon, maxLon, 50, width - 50);
+float py = map(previa.getFloat("latitude"), minLat, maxLat, height - 50, 50);
+stroke(255, 60); // Línea blanca transparente
+strokeWeight(1.5);
+line(px, py, x, y);
+}
 
+// Lógica de color de Sensor Logger para errores
+// Si la precisión es mayor a 12 metros, Sensor Logger suele marcar "morado"
+if (accuracy > 12) {
+fill(180, 50, 255, 200); // Morado semitransparente
+noStroke();
+ellipse(x, y, 12, 12); // Punto más grande para resaltar el error
+} else {
+fill(0, 255, 200, 180); // Cian (recorrido limpio)
+noStroke();
+ellipse(x, y, 6, 6);
+}
+}
+}
 
+// Esta función encuentra las coordenadas más lejanas para centrar el mapa
+void calcularLimites() {
+minLat = 1000; maxLat = -1000;
+minLon = 1000; maxLon = -1000;
+for (TableRow fila : tabla.rows()) {
+float lat = fila.getFloat("latitude");
+float lon = fila.getFloat("longitude");
+if (lat < minLat) minLat = lat;
+if (lat > maxLat) maxLat = lat;
+if (lon < minLon) minLon = lon;
+if (lon > maxLon) maxLon = lon;
+}
+}
 
