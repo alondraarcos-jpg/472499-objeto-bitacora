@@ -1,71 +1,26 @@
-// Array de datos (velocidad normalizada entre 0 y 1)
-// Cada valor representa un momento en el tiempo
-float[] valores = {
-0.0, 0.0, 0.0, 0.0, 0.0,
-0.12, 0.35, 0.48, 0.22, 0.67,
-0.89, 0.54, 0.31, 0.15, 0.08,
-0.0, 0.0, 0.0, 0.25, 0.60,
-0.78, 0.92, 0.70, 0.40, 0.18
-};
+#codigo de recorrido en el manzano cajón del maipo
 
-// Variable que controla cuántos puntos se dibujan (animación)
-int paso = 0;
+float[] valores = { 0.7860671903391775, 0.8364861462963084 0.7997717147377209, 0.7737864207290726, 0.7775553273662861, 0,7246893922093773, 0,6458692351740078, 0,5490055033725632, 0,6750997603421102, 0,7908525560069702, 0,8476070620397171 };
 
-void setup() {
-// Tamaño de la ventana
-size(600, 400);
-}
+entero paso = 0;
 
-void draw() {
-// Fondo negro para alto contraste
-background(0);
+void setup() { tamaño(600, 400); }
 
-// Color de las líneas
-stroke(255);
+void draw() { fondo(0); trazo(255);
 
-// Hace que la visualización se dibuje de a poco (simula paso del tiempo)
-if (frameCount % 10 == 0 && paso < valores.length) {
-paso++;
-}
+// aumenta el paso con el tiempo if (frameCount % 10 == 0 && paso < valores.length) { paso++; }
 
-// Recorre los datos hasta el punto actual
-for (int i = 0; i < paso; i++) {
+for (int i = 0; i < paso; i++) { float valor = valores[i];
 
-// Obtiene el valor actual (velocidad)
-float valor = valores[i];
+float x = map(i, 0, valores.length, 50, width - 50); float y = map(valor, 0, 1, height - 50, 50);
 
-// Mapea la posición horizontal (tiempo → eje X)
-float x = map(i, 0, valores.length, 50, width - 50);
+if (i > 0) { float prevValor = valores[i - 1];
 
-// Mapea la velocidad a altura (valor → eje Y)
-float y = map(valor, 0, 1, height - 50, 50);
+float prevX = map(i - 1, 0, valores.length, 50, width - 50); float prevY = map(prevValor, 0, 1, height - 50, 50);
 
-// Dibuja línea entre puntos consecutivos (conecta el recorrido)
-if (i > 0) {
-float prevValor = valores[i - 1];
+línea(prevX, prevY, x, y); }
 
-float prevX = map(i - 1, 0, valores.length, 50, width - 50);
-float prevY = map(prevValor, 0, 1, height - 50, 50);
-
-line(prevX, prevY, x, y);
-}
-
-// Color del punto (puedes cambiarlo según velocidad si quieres)
-fill(255, 100, 200);
-
-// Dibuja un punto en cada dato
-ellipse(x, y, 10, 10);
-}
-}
-
-## Visualización
-
-- Eje X: tiempo
-- Eje Y: velocidad
-- Líneas: conexión del recorrido
-- Puntos: cada dato
-El uso de animación permite ver el paso del tiempo.
-
+fill(255, 100, 200); elipse(x, y, 10, 10); } //}
 ## Uso de IA para 
 "crear visualización en processing con datos de velocidad"
 
