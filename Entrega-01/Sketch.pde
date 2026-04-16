@@ -57,3 +57,18 @@ fill(255, 100, 200);
 ellipse(x, y, 10, 10);
 }
 }
+
+## Visualización
+
+- Eje X: tiempo
+- Eje Y: velocidad
+- Líneas: conexión del recorrido
+- Puntos: cada dato
+El uso de animación permite ver el paso del tiempo.
+
+## Uso de IA para 
+"crear visualización en processing con datos de velocidad"
+
+
+
+
