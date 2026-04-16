@@ -9,3 +9,4 @@ Me intereso observar el movimiento dentro de una azotea paseando a los gatos de 
 ## Cualidad medida 
 se trabajo con la velocidad del desplazamiento.
 
+
