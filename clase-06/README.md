@@ -6,7 +6,9 @@
 tamien se puede entrae si cambiamoos el .com por .dev en nuestro repositorio 
 * cambie el color de mi titulo de bitacora a rosado 
 
-<span style="color:#ff69b4">que es un objetotodo aquel que se uede relacionar y tiene esencia+
+<span style="color:#ff69b4">
+##qu s un objeto: 
+todo aquel que se uede relacionar y tiene esencia.
 mesa c 
 aquella donde se enfoca la creacion del objetto
 mesa humanista
