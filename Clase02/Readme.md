@@ -13,7 +13,7 @@
 8.  Moderno 
 9.  Compacta 
 10. Rosada
-2. ## Cualidades:##
+2. ## Cualidades:
 1. Tensa 
 2. Enrollada 
 3.  Contenida 
@@ -25,7 +25,7 @@
 9.  Doméstico
 10.  Instrumental 
 
-## Peluche:##
+## Peluche:
 
 1.Afable 
 2.Amarillo 
