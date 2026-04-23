@@ -1,5 +1,5 @@
 ## codigo de prueba como tarea de recorrido en el manzano cajon del maipo ##
-``` 
+```processing
 Table table;
 
 int index = 1;
