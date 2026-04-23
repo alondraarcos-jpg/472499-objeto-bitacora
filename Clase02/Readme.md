@@ -7,7 +7,7 @@ Cualidades:
 2. ## Dura ##
 3. ## Lisa ##
 4. ## Brillante ##
-5.## Artificial ##
+5. ## Artificial ##
 6. ## Rígida ##
 7. ## Funcional ##
 8. ## Moderno ##
