@@ -1,2 +1,2 @@
 # 472499-objeto-bitacora
-Bitácora de Alondra Arcos 
+$${\color{red}Red}$$ Bitácora de Alondra Arcos 
