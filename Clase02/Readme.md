@@ -27,8 +27,8 @@
 
 ## Peluche:
 
-1.Afable 
-2.Amarillo 
+1. Afable 
+2. Amarillo 
 3. Blando 
 4. Decorativo 
 6. Liviano 
