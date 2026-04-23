@@ -3,7 +3,7 @@
 //Plancha de pelo
 Cualidades:
 
-1. ##Alargada##
+1. ## Alargada ##
 2. ## Dura ##
 3. ## Lisa ##
 4. ## Brillante ##
