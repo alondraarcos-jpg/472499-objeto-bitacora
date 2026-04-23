@@ -131,6 +131,6 @@ void drawLabels(int cols, int rows) {
 
 
 
-codigo de prueba en clases 
+
 
 
