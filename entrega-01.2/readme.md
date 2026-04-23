@@ -16,6 +16,6 @@ En ese sentido, el proyecto no apunta únicamente a representar un recorrido, si
 se trabajo con la velocidad del desplazamiento.
 
 ![](./IMG_0126.png)
-![](./IMG_0125.png <img width="828" height="1192" alt="IMG_0126" src="https://github.com/user-attachments/assets/78d04982-5846-43e5-a7e3-b5c2a34fa5ba" />
+![](./IMG_0125) .png <img width="828" height="1192" alt="IMG_0126" src="https://github.com/user-attachments/assets/78d04982-5846-43e5-a7e3-b5c2a34fa5ba" />
 <img width="828" height="1110" alt="IMG_0125" src="https://github.com/user-attachments/assets/7c5d09b6-3bf8-474e-ab93-938db79f1e8d" />
 )
