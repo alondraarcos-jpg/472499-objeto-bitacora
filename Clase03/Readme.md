@@ -1,4 +1,5 @@
 ## codigo de prueba como tarea de recorrido en el manzano cajon del maipo ##
+``` 
 Table table;
 
 int index = 1;
@@ -128,7 +129,7 @@ void drawLabels(int cols, int rows) {
     text(nf(lat, 0, 4), 5, y);
   }
 }
-
+```
 
 
 
