@@ -63,7 +63,7 @@ void setup() { // Crea la ventana y activa la aceleración por tarjeta de video.
 }
 
 // ==========================================
-// 3. FUNCIÓN DRAW (Animación paso a paso)
+
 // ==========================================
 void draw() {
   if (index < table.getRowCount()) { // Mientras queden filas por leer en el cuaderno...
@@ -98,7 +98,7 @@ void draw() {
 }
 
 // ==========================================
-// 4. FUNCIONES EXTRA (Lógica visual)
+//
 // ==========================================
 
 // Traduce la velocidad en un color (Morado -> Verde -> Amarillo)
