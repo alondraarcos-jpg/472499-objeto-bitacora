@@ -1,4 +1,5 @@
-#codigo de recorrido en el manzano cajon del maipoTable table;
+## codigo de recorrido en el manzano cajon del maipo ##
+Table table;
 
 int index = 1;
 
