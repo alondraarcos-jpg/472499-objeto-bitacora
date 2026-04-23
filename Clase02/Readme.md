@@ -1,7 +1,7 @@
 ## Tareas
 
 ## Plancha de pelo ##
-## Cualidades:##
+## Cualidades:
 
 1.  Alargada 
 2.  Dura 
