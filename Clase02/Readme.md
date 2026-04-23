@@ -12,7 +12,7 @@ Cualidades:
 7. ## Funcional ##
 8. ## Moderno ##
 9. ## Compacta ##
-Rosada
+10. ## Rosada ##
 2. //Cualidades:
 1. ## Tensa ##
 2. ## Enrollada ##
