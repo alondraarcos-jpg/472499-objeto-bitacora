@@ -1,6 +1,6 @@
 # 472499-objeto-bitacora
 
-# <span style="color:pink">Bitacora Alondra Arcos</span>
+ <span style="color:pink">Bitacora Alondra Arcos</span>
 
 bitacora para tareas, apuntes y investigacionesss.
 
