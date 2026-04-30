@@ -1,10 +1,14 @@
+ # Revisamos sobre el colectivo hambrehambrehambre 
+* colectivo de disidencias desde el 2019 (museo violeta parra)
+
+
 ## Elegir 3 objetos  
 
-1- reloj chino
+1-  mi reloj chino
 
-2- omeprazol 
+2- el omeprazol que tengo guardado 
 
-3- lapiz tinta invisible
+3- lapiz tinta invisible de mi amiga
 
 # ejercicio en clase donde el profesor nos hizo elegir cartas para el trabajo
 
