@@ -1,3 +1,14 @@
+# Clase online 
+
+nos enseño una paguina de datos global, un repositorio donde estan muchos datos ambientales que podemos utilizar.
+
+## [Visualizacion de mapa](https://www.google.com/maps/d/u/0/?hl=es)
+
+### [Pagina de datos](https://open-meteo.com/en/docs)
+
+### [Pagina IA](https://claude.ai/onboarding)
+
+
 ## codigo de prueba como tarea de recorrido en el manzano cajon del maipo ##
 ```processing
 Table table;
