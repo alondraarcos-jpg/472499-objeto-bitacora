@@ -14,5 +14,15 @@ la que me salio:
 
 Ejercicio 
 
+lápiz invisible 
+ 
+cosas que podria ocultar:
+
+* emociones
+* decisiones
+* relaciones
+* pensamientos
+
 En 1 semana ¿cuantas situaciones no podria explicarle a mis padres?
+
 en 1 semana ¿cuantas situaciones podrias anotar con tu lapiz invisible que no le podrias decir a tus padres?
