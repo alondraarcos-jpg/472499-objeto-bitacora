@@ -6,6 +6,8 @@
 
 bitacora para tareas, apuntes y investigacionesss.
 
+
+
   .:::.   .:::.
  :::::::.:::::::
  :::::::::::::::
@@ -13,6 +15,9 @@ bitacora para tareas, apuntes y investigacionesss.
    ':::::::::'
      ':::::'
        ':'
+
+
+
 
 
 links para acordarme donde estan las cosasss.
