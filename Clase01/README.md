@@ -1,7 +1,8 @@
 # Clase 01 
 
 ## Apuntes de clase 
-
+Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
+ 
 ## Mi primera foto
 
 ![](./LOGOuniacc.png)
