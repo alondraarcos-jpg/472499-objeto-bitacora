@@ -1,4 +1,4 @@
-# Clase 01 
+ # Clase 01 
 
 ## Apuntes de clase 
 Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
@@ -63,7 +63,9 @@ Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
 
 <img width="200" height="300" alt="IMG_9773" src="https://github.com/user-attachments/assets/78cfb40f-685b-4705-85c4-03ff2b7fb01c" /> 
 
-##Tarea
+## Tarea
 
-##Hablar y observar las obras de Mateo Cereda y Gabriela Inostroza.
+## Hablar y observar las obras de Mateo Cereda y Gabriela Inostroza.
+
+Mateo Cereceda:
 Entiendo más o menos lo que propone la obra, sobre todo por el título y cómo usa la sangre como idea central. El “paciente universal” sería como alguien que le da a todos, que los alimenta, pero al mismo tiempo es el único que no recibe nada de vuelta. Igual es medio contradictorio, porque justamente es quien más entrega, pero no hay nada que regrese hacia él.
