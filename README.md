@@ -1,7 +1,7 @@
 
 
 # 472499-objeto-bitacora
-
+<img width="50" height="20" alt="FC22D692-FE0C-4610-AD0C-2893963903CA" src="https://github.com/user-attachments/assets/ffc0ffb2-ae6a-4523-aaca-f7f99e1625e7" />
 <span style="color:pink">Bitacora Alondra Arcos</span>
 
 bitacora para tareas, apuntes y investigacionesss.
