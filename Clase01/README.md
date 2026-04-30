@@ -69,3 +69,6 @@ Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
 
 Mateo Cereceda:
 Entiendo más o menos lo que propone la obra, sobre todo por el título y cómo usa la sangre como idea central. El “paciente universal” sería como alguien que le da a todos, que los alimenta, pero al mismo tiempo es el único que no recibe nada de vuelta. Igual es medio contradictorio, porque justamente es quien más entrega, pero no hay nada que regrese hacia él.
+
+Gabriela Inostroza:
+Encontre interesante la obra por que toma algo tan natural como el sonido del grillo mezclando naturaleza con tecnología.
