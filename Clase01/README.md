@@ -10,7 +10,7 @@ Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
 ## Tareas
 
 ## Plancha de pelo ##
-<img width="2316" height="3088" alt="IMG_9769" src="https://github.com/user-attachments/assets/014acfde-c42b-4190-8bb4-2e6ddc8546d7" />
+<img width="200" height="300" alt="IMG_9769" src="https://github.com/user-attachments/assets/014acfde-c42b-4190-8bb4-2e6ddc8546d7" />
 
 
 
