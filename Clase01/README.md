@@ -61,4 +61,4 @@ Hablamos sobre el texto que tenemos que leer y sobre mas info para el ramo
 10. Expresiva  (por la cara)
 11. Flexible 
 
-<img width="3024" height="4032" alt="IMG_9773" src="https://github.com/user-attachments/assets/78cfb40f-685b-4705-85c4-03ff2b7fb01c" />
+<img width="200" height="300" alt="IMG_9773" src="https://github.com/user-attachments/assets/78cfb40f-685b-4705-85c4-03ff2b7fb01c" />
