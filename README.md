@@ -31,6 +31,3 @@ links para acordarme donde estan las cosasss.
 <img width="500" height="200" alt="FC22D692-FE0C-4610-AD0C-2893963903CA" src="https://github.com/user-attachments/assets/ffc0ffb2-ae6a-4523-aaca-f7f99e1625e7" />
 <img width="220" height="220" alt="0C24E50D-4B38-48D2-BD33-CF2BF00C085C" src="https://github.com/user-attachments/assets/aa2a1efe-40b4-4073-8439-5d9b0ca7ec7f" />
 
-
-
-m
