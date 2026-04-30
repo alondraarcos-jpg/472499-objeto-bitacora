@@ -8,4 +8,4 @@ links para acordarme donde estan las cosasss.
 
 [Coloress](https://github-com.translate.goog/orgs/community/discussions/31570?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) 
 +
-<img src="./IMG_0969.gif" width="200" height="200">
+<img src="./1673627C-5CAF-4B82-B78A-DECD3993BAD5.gif" width="200" height="200">
