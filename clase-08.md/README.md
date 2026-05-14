@@ -22,4 +22,4 @@ despues de eso hicimos el recorrido por el museo.
 
 Objeto:
 
-Fanzine pegado al muro tipo post it,  recreando cuadros de violeta parra con papeles y plasticos livianos recogidos del perimetro a la redonda del museo y con estos elementos haremos el fanzine formato collage elaborando de forma inexacta obras especificas elegidas
+Este fanzine va a ser como una intervención pegada directamente en el muro, bien al estilo post-it, para recrear los cuadros de Violeta Parra. La idea es usar puros papeles y plásticos livianos que vayamos juntando ahí mismo, caminando por el perímetro y a la redonda del museo. Con todo eso que recolectemos, vamos a ir armando el fanzine en formato collage, elaborando de manera así media inexacta y a pulso algunas obras específicas que elijamos de ella. Lo importante es que los materiales reciclados y los colores de lo que encontremos ayuden a que las obras se entiendan y se vean llamativas en la pared.
