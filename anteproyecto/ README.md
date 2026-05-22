@@ -33,9 +33,9 @@ Nos sirve para entender discursos sociales difundidos a través del arte calleje
 
 El montaje para la fanzinoteca emula un archivo vivo estructurado geográficamente que define fronteras visuales comunales.
 
-<img alt="1673627C-5CAF-4B82-B78A-DECD3993BAD5" src="https://github.com/user-attachments/assets/997ffb26-13a8-4f51-853f-a3eaf9876991" />
+<img alt="https://pin.it/2VQDHdvDD" src="https://github.com/user-attachments/assets/997ffb26-13a8-4f51-853f-a3eaf9876991" />
 
-
+https://pin.it/2VQDHdvDD
 
 
 <img width="318" height="310" alt="1673627C-5CAF-4B82-B78A-DECD3993BAD5" src="[https://github.com/user-attachments/assets/997ffb26-13a8-4f51-853f-a3eaf9876991](https://github.com/user-attachments/assets/997ffb26-13a8-4f51-853f-a3eaf9876991)" />
