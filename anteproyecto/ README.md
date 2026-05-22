@@ -1,36 +1,36 @@
-# Anteproyecto: Mapeo de Residuos Urbanos (MVP)
+# Anteproyecto: Fanzine Basura MVP
 
-Entrega actualizada de la propuesta de fanzine experimental e investigación territorial.
+Actualización de la propuesta de fanzine experimental e investigación territorial.
 
 ---
 
 ## 1. Comentarios y cambios con respecto a la propuesta inicial
 
-* **1.1. Evolución del Collage:** Inicialmente se pensaba replicar de manera literal obras específicas de Violeta Parra. El cambio actual propone que el collage de la portada sea una **interpretación visual y propia** de la frase o extracto de la canción que contiene el fanzine, otorgando mayor libertad creativa y autoría.
-* **1.2. Enfoque de los Datos (Geográfico/Temporal):** La recolección de materiales ya no es al azar; se acota a un perímetro específico alrededor del Museo Violeta Parra (MVP) durante la "hora pico" de la tarde (PM). Esto permite abrir una nueva línea de investigación: **una comparativa sociourbana sobre la frecuencia de limpieza pública entre las comunas de Santiago Centro y Providencia**, utilizando el límite comunal que intersecta la zona.
+* **1.1. El Collage ya no es una copia:** Al principio pensé en replicar obras exactas de Violeta Parra con la basura, pero ahora prefiero que la portada sea una **interpretación propia e intuitiva** de la frase que vaya adentro. Menos copia, más creación libre.
+* **1.2. Chao Post-it, Hola Tendedero:** Cambié la idea de pegar los fanzines directo a la pared tipo post-it. Se veía muy simple y se podían caer. Ahora los vamos a colgar con perritos de ropa de una estructura de hilos. Se ve más pro y la gente los puede manipular sin romperlos.
+* **1.3. Foco en el contraste de comunas:** La recolección de basura ya no es solo "juntar cositas de la calle". Como el museo (MVP) está justo en el límite entre **Santiago Centro y Providencia**, el proyecto ahora es una mini investigación urbana: vamos a comparar qué basura sale en cada comuna y ver cuál de las dos municipalidades limpia más rápido en la hora pico de la tarde (PM).
 
 ---
 
-## 2. Definición de objeto inicial e instalación
+## 2. Definición de objeto e instalación
 
-### 2.1. ¿Qué ingresa a la base de datos? (El Objeto)
-Cada residuo recolectado se registrará en la base de datos como un "objeto de análisis urbano y material". Los campos clave para la investigación serán:
-* **2.1.1. ID del Objeto / Fecha y Hora:** Para trazar el día de recolección en hora pico PM.
-* **2.1.2. Comuna de origen:** (Santiago Centro vs. Providencia) para el análisis comparativo de limpieza.
-* **2.1.3. Tipo de Material:** (Papel, plástico blando, folleto publicitario, etc.) para entender el consumo de la zona.
-* **2.1.4. Cromática dominante:** El color del residuo, indispensable para la composición del collage estilo Violeta Parra.
+### 2.1. ¿Qué entra a la base de datos? (El Objeto)
+Cada papel, plástico o folleto que recojamos en la vuelta manzana se va a registrar con estos datos:
+* **2.1.1. Día y Hora:** Para cachar el flujo de la hora pico.
+* **2.1.2. Comuna:** Si lo encontramos del lado de Santiago Centro o de Providencia.
+* **2.1.3. Tipo de residuo:** Si es envoltorio de comida, folleto de publicidad, boleta, etc.
+* **2.1.4. Color dominante:** Clave para saber qué colores tenemos disponibles para armar los collages.
 
-### 2.2. ¿Qué aspectos de este objeto sirven para la investigación?
-La materialidad recolectada funciona como un espejo del comportamiento del transeúnte en una zona de alto tráfico y transición comunal. Nos permite medir la densidad de residuos por comuna en un mismo bloque horario, evaluar el tipo de información que se propaga en la calle (folletos) y cómo el desecho se transforma en pigmento para una obra de arte/fanzine.
+### 2.2. ¿Para qué me sirve esto en mi investigación?
+Nos sirve para mapear la realidad de la calle. Nos ayuda a comparar visual y estadísticamente las dos comunas: ¿En Providencia se bota más plástico? ¿En Santiago Centro hay más folletos pegados? Además, la basura recolectada se transforma en nuestro "óleo y lienzo" para el fanzine.
 
 ### 2.3. Materialidad de la instalación
-* **2.3.1. Soporte Principal:** Papel plegado verticalmente (formato díptico, doblado a la mitad).
-* **2.3.2. Componentes del Collage:** Desechos livianos recolectados (plásticos, papeles, anuncios urbanos).
-* **2.3.3. Adhesivos:** Pegamento apto para técnicas de collage (cola fría o cinta doble faz liviana).
-* **2.3.4. Fijación al Muro:** Adhesivo estilo post-it o cinta de papel (masking tape) de baja adherencia, asegurando que sea un montaje liviano que no dañe la superficie de la fanzinoteca.
+* **2.3.1. El Fanzine:** Papel doblado a la mitad (formato díptico). Las portadas llevarán el collage pegado con pegamento en barra o cinta. 
+* **2.3.2. El interior:** Llevará escritos a mano los extractos de la canción *"Miren cómo sonríen"* de Violeta Parra.
+* **2.3.3. El montaje:** Hilo grueso o cordel tensado, perritos de ropa (o clips metálicos) para colgar los fanzines, y cinta de papel (masking tape) para fijar los hilos al muro de la fanzinoteca sin dañar la pintura.
 
 ---
 
 ## 3. Boceto de montaje y viabilidad
 
-Para que el proyecto sea viable en el espacio de la fanzinoteca, el montaje emulará la disposición de una galería de mini-cuadros interactivos.
+Para que la fanzinoteca nos apruebe el montaje, la propuesta es súper limpia, liviana y no rompe nada. Vamos a armar una especie de **"tendedero comparativo"** dividido por comunas.
