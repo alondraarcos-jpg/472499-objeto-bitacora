@@ -39,4 +39,4 @@ El montaje para la fanzinoteca emula un archivo vivo estructurado geográficamen
 
 
 
-
+https://drive.google.com/drive/folders/1t44QYvWcVd5jprfkRIDrqrnxfFNLw2_w
