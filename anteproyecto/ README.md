@@ -4,7 +4,7 @@
 
 ## 1. Comentarios y cambios de la propuesta inicial
 
-* **1.1. Propuesta:** En esta corrección del proyecto abandonamos el enfoque ecológico de la “basura” o la contaminación. Ahora, la recolección es una búsqueda de rastros de identidad urbana (folletos, publicidad, stickers, propagandas, boletas y avisos). Los desechos pasarán a ser “documentos vivos” de lo que la gente piensa y consume.
+* **1. Propuesta:** En esta corrección del proyecto abandonamos el enfoque ecológico de la “basura” o la contaminación. Ahora, la recolección es una búsqueda de rastros de identidad urbana (folletos, publicidad, stickers, propagandas, boletas y avisos). Los desechos pasarán a ser “documentos vivos” de lo que la gente piensa y consume.
 * **2. Recreación de Obras:** En vez de hacer interpretaciones libres, la portada de cada fanzine será un collage que recrea a pulso obras específicas de Violeta Parra que están en el museo y que tengan un contexto político y social. Para esto se usarán los papeles, folletos y carteles recolectados en el sector.
 * **3. Enfoque Territorial:** Al estar el Museo Violeta Parra (MVP) en el límite exacto entre Santiago Centro y Providencia, el proyecto investiga cómo cambia la comunicación callejera según el territorio. Analizaremos que tipos de folletos se encuentran y que enfoques tienen.
 
