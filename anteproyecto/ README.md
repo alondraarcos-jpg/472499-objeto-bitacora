@@ -1,35 +1,36 @@
 # Anteproyecto: Mapeo de una Sonrisa Urbana
 
-Investigación material sobre la frontera de limpieza entre Santiago Centro y Providencia.
+Investigación material y cartografía textil basada en los residuos de la frontera Santiago Centro - Providencia.
 
 ---
 
 ## 1. Comentarios y cambios con respecto a la propuesta inicial
 
-* **1.1. Del Post-it a la Arpillera Modular:** Se abandona la idea del "post-it" simple por una **instalación modular**. El fanzine ahora se entiende como una "arpillera de papel y plástico". La estética de Violeta Parra ya no es solo una referencia visual, sino un método constructivo: usar el desecho como si fuera hilo y tela para armar capas textiles.
-* **1.2. La Portada como "Máscara":** El collage de la portada ya no busca replicar una obra de Violeta, sino ser una **interpretación crítica** del mensaje. La portada será la "cara linda" (la sonrisa) hecha con la basura que recolectamos, y el interior será la "realidad" (los datos duros y la letra de la canción).
-* **1.3. Enfoque Territorial:** La recolección de basura ya no es solo "juntar cositas de la calle". Como el museo (MVP) está justo en el límite entre **Santiago Centro y Providencia**, el proyecto ahora es una mini investigación urbana: vamos a comparar qué basura sale en cada comuna y ver cuál de las dos municipalidades limpia más rápido en la hora pico de la tarde (PM).
+* **1.1. De la réplica visual a la Arpillera como Método:** Inicialmente se pensaba replicar de manera literal obras de Violeta Parra con basura común. El cambio actual propone adoptar la arpillera no solo como estética, sino como **método constructivo**. El acto de recolectar basura se redefine como un ejercicio de "búsqueda de retazos urbanos", donde los plásticos y papeles recolectados reemplazan a las telas y los hilos para armar un tejido social y político.
+* **1.2. La Portada como Arpillera-Máscara:** El collage de la portada ya no es un dibujo azaroso, sino una **composición textil plástica termo-fundida**. Esta arpillera funciona como una "máscara" o "la cara linda" (la sonrisa institucional de la ciudad), mientras que el interior revela los datos duros de la contaminación y la letra de denuncia de Violeta Parra.
+* **1.3. Enfoque Territorial Crítico:** Al estar el Museo Violeta Parra (MVP) en el límite exacto entre Santiago Centro y Providencia, la recolección se transforma en una investigación urbana comparativa. Analizaremos si la "frontera política" entre comunas altera la materialidad, los colores y las texturas de la basura que se genera y el tiempo que esta permanece en la calle durante la hora pico de la tarde (PM).
 
 ---
 
 ## 2. Definición de objeto e instalación
 
-### 2.1. ¿Qué ingresa a la base de datos? (El Objeto Inicial)
-El objeto de estudio es el **"Residuo de Tránsito"** (papeles, plásticos, folletos recolectados en la manzana del MVP en hora pico PM). Cada elemento se registrará con los siguientes datos:
-* **2.1.1. Geolocalización del desecho:** ¿En qué lado de la frontera (Santiago Centro o Providencia) se encontró?
-* **2.1.2. Carga Textual:** Si es un folleto político, publicidad, una boleta, envoltorio de producto, etc. (sirve para entender qué se consume o "se lee" en la calle).
-* **2.1.3. Estado de Degradación:** ¿Está limpio, pisoteado, mojado? (Indica cuánto tiempo lleva el objeto en la calle sin ser retirado por los servicios de limpieza).
+### 2.1. ¿Qué ingresa a la base de datos? (El Retazo Urbano)
+Cada elemento recolectado en el perímetro del MVP ingresa a la base de datos no como simple basura, sino como un **"Retazo Urbano"** evaluado bajo criterios constructivos y de investigación:
+* **2.1.1. Tipo de Trama/Materialidad:** Clasificación técnica del residuo como material textil alternativo (ej. plástico blando tipo polietileno para fundir, papel periódico para dar volumen, restos de hilos/amarras plásticas para unir).
+* **2.1.2. Origen Comunal:** Ubicación exacta del retazo (Santiago Centro vs. Providencia) para mapear la procedencia de los materiales y colores de cada sector.
+* **2.1.3. Nivel de Desgaste (Patina de la calle):** Si el material está pisoteado, quemado por el sol o húmedo. Esto indica el tiempo de exposición en la vía pública y aporta texturas únicas a la arpillera final.
 
 ### 2.2. ¿Qué aspectos de este objeto sirven para la investigación?
-Nos sirve para mapear el comportamiento urbano en una zona de alto tráfico y transición comunal. Nos permite medir la densidad de residuos por comuna en un mismo bloque horario, evaluar la eficiencia de la gestión pública de limpieza y ver cómo el desecho se transforma en el material constructivo de una obra/arpillera.
+Nos permite entender el desecho como un **conector sociomaterial**. Investigamos cómo el consumo cambia de una comuna a otra a través de sus texturas y etiquetas, medimos visualmente qué comuna sufre mayor abandono en la limpieza, y demostramos cómo la basura (lo que la sociedad descarta) puede ser hilada y resignificada para construir una contranarrativa política, tal como Violeta hacía con los sacos de arpillera viejos.
 
 ### 2.3. Materialidad de la instalación
-* **2.3.1. Cuerpo del Fanzine:** Papel de alto gramaje para dar estructura, intervenido con **plásticos termo-fundidos** (usando calor para sellar los plásticos recolectados) o pegados por capas, emulando la textura rugosa de las arpilleras.
-* **2.3.2. Sistema de Cierre e Interior:** En lugar de solo doblarlo, usaremos un **clic metálico o un cordel de cáñamo** para cerrarlo. El interior llevará los extractos de la canción *"Miren cómo sonríen"* de Violeta Parra.
-* **2.3.3. Estructura de Montaje:** Una **grilla de hilos tensados** en el muro de la fanzinoteca de los cuales colgarán los fanzines con pinzas, permitiendo que la instalación "flote" y tenga tridimensionalidad.
+* **2.3.1. Base de la Arpillera:** Papel kraft o cartón reciclado de alto gramaje que funciona como soporte o "saco base".
+* **2.3.2. Capas Textiles Plásticas:** Composición de portadas mediante la técnica de **termo-fundido** (aplicación de calor controlado sobre capas de plásticos recolectados para unirlos sin pegamento, creando texturas rugosas y traslúcidas que emulan el relieve de la lana).
+* **2.3.3. Uniones y Costuras:** Uso de amarras plásticas, alambres delgados o cordeles encontrados en la calle para "coser" los elementos del collage a la base.
+* **2.3.4. Cierre e Interior:** Un sistema de amarra rústica que el espectador debe desatar para abrir el díptico. El interior contiene la letra manuscrita de *"Miren cómo sonríen"*.
 
 ---
 
 ## 3. Boceto de montaje y viabilidad
 
-Para que la fanzinoteca apruebe el proyecto, se propone una instalación limpia, liviana y totalmente interactiva que simula una matriz territorial (Muro Comparativo).
+Para la fanzinoteca se propone un montaje interactivo que simula un **taller de costura comunitaria o un tendedero de arpilleras en proceso**, ordenado de forma matemática para mostrar los datos de la investigación urbana.
