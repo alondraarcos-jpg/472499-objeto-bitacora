@@ -1,12 +1,12 @@
-# Anteproyecto: Mapeo de una Sonrisa Urbana
+# Anteproyecto:
 
 Arqueología visual y cartografía discursiva en la frontera Santiago Centro - Providencia.
 
 ---
 
-## 1. Comentarios y cambios con respecto a la propuesta inicial
+## 1. Comentarios y cambios de la propuesta inicial
 
-* **1.1. De la contaminación a la Arqueología de Muro:** Se abandona por completo el enfoque ecológico de la "basura" o la contaminación. Ahora, la recolección se redefine como una **búsqueda de rastros de identidad urbana** (folletos impresos, publicidad callejera, stickers, propaganda, boletas y avisos). Estos elementos ya no se ven como desechos, sino como "documentos vivos" de lo que la gente dice, consume y necesita en el espacio público.
+* **1.1. De la contaminación a la Arqueología de Muro:** abandonamos por completo el enfoque ecológico de la "basura" o la contaminación. Ahora, la recolección se redefine como una **búsqueda de rastros de identidad urbana** (folletos impresos, publicidad callejera, stickers, propaganda, boletas y avisos). Estos elementos ya no se ven como desechos, sino como "documentos vivos" de lo que la gente dice, consume y necesita en el espacio público.
 * **1.2. El Collage como "Arpillera de Papel":** En lugar de usar telas o técnicas complejas, se adopta un **collage rústico de papel por capas**. La estética de Violeta Parra se rescata a través del trabajo a pulso, la superposición de parches y el rasgado manual de los documentos encontrados. La portada funciona como una "máscara" o "la cara linda" (la sonrisa de la ciudad) armada con estos mensajes, mientras que el interior revela los datos duros y la letra de denuncia de la canción.
 * **1.3. Frontera Sociocultural en Hora Pico:** Al estar el Museo Violeta Parra (MVP) en el límite exacto entre Santiago Centro y Providencia, el proyecto investiga cómo cambia la comunicación callejera según el territorio. Analizaremos si cruzar la calle altera el tipo de mensajes que se pegan en los muros (ej. ofertas de empleo informal vs. publicidad de servicios pro) y cómo interactúan las personas con estos soportes impresos en la hora pico PM.
 
