@@ -46,3 +46,8 @@ Nos sirve para entender **el pulso social y la visualidad de la calle**. Investi
 ## 3. Boceto de montaje y viabilidad
 
 El montaje para la fanzinoteca emula un **archivo vivo o un tendedero de relatos urbanos**, estructurado geométricamente como una matriz de datos que divide la frontera comunal.
+
+
+
+
+Screenshot_20260519_200442_com.huawei.browser
