@@ -35,7 +35,7 @@ El montaje para la fanzinoteca emula un archivo vivo estructurado geográficamen
 
 
 
-
+se subieron los bocetos a drive ya que la aplicación de GitHub no me deja subir archivos desde el celular :(
 
 
 
