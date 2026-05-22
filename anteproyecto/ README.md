@@ -53,4 +53,4 @@ El montaje para la fanzinoteca emula un **archivo vivo o un tendedero de relatos
 Screenshot_20260519_200442_com.huawei.browser
 
 
-<img width="600" height="200" alt="FC22D692-FE0C-4610-AD0C-2893963903CA" src="https://github.com/user-attachments/assets/ffc0ffb2-ae6a-4523-aaca-f7f99e1625e7" /> 
+<img width="600" height="200" alt="FC22D692-FE0C-4610-AD0C-2893963903CA" src="Screenshot_20260519_200442_com.huawei.browser" /> 
