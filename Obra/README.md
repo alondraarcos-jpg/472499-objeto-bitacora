@@ -21,9 +21,17 @@ https://drive.google.com/drive/folders/1CDZgupknUWiiHJNCjqo7pdZFQkhRAOYz?usp=sha
 ## Letra
 
 Miren cómo sonríen los presidentes
+
+
 Cuando le hacen promesas al inocente
+
+
 Miren cómo le ofrecen al sindicato
+
+
 Este mundo y el otro, los candidatos
+
+
 Miren cómo redoblan los juramentos
 Pero después del voto, doble tormento
 Miren el hervidero de vigilante
