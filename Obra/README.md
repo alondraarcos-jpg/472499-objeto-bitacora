@@ -28,22 +28,22 @@ Miren cómo redoblan los juramentos
 Pero después del voto, doble tormento
 Miren el hervidero de vigilante
 Para rociarle flores al estudiante
-## Miren cómo relumbran carabineros
-## Para ofrecerle premios a los obreros
+* Miren cómo relumbran carabineros
+* Para ofrecerle premios a los obreros
 Miren cómo se visten cabo y sargento
 Para teñir de rojo los pavimentos
 Miren cómo profanan las sacristías
 Con pieles y sombreros de hipocresía
-## Miren cómo blanquearon mes de María
-## Y al pobre negreiaron la luz del día
+* Miren cómo blanquearon mes de María
+* Y al pobre negreiaron la luz del día
 Miren cómo le muestran una escopeta
 Para quitarle al pobre su marraqueta
 Miren cómo se empolvan los funcionarios
 Para contar las hojas del calendario
 Miren cómo gestionan los secretarios
 Las páginas amables de cada diario
-## Miren cómo sonríen angelicales
-## Miren cómo se olvidan que son mortales.
+* Miren cómo sonríen angelicales
+* Miren cómo se olvidan que son mortales.
 
 ## obras elegidas 
 * Justicia 
